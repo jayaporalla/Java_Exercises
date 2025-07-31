@@ -1,33 +1,32 @@
 package module3;
 import java.io.*;
+import java.util.*;
 
-public class Example {
+public class inputOutputExample {
     public static void main(String[] args) throws IOException{
 
         // BufferedReader Example
-
-        // BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        // System.out.println("Enter your name ");
-        // String s = br.readLine();
-        // System.out.println("You entered name is: " + s);
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        System.out.println("Enter your name ");
+        String s = br.readLine();
+        System.out.println("You entered name is: " + s);
 
 
         // Scanner example
-
-        // Scanner sc = new Scanner(System.in);
-        // System.out.print("Enter your name ");
-        // String s = sc.nextLine();
-        // System.out.println(s);
-        // sc.close();
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter your name ");
+        String st = sc.nextLine();
+        System.out.println(st);
+        sc.close();
 
         // Output methods example
 
         int x = 10;
         float y = 9.23f;
-        String s = "GFG";
+        String sr = "GFG";
         System.out.println(x);
         System.out.println(y);
-        System.out.print(s);
+        System.out.print(sr);
         System.out.println(" Courses");
 
         double pi = Math.PI;

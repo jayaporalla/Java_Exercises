@@ -1,5 +1,5 @@
 package module1;
-public class Main {
+public class swapNumbers {
     public static void main(String[] args){
         int a = 10;
         int b = 20;

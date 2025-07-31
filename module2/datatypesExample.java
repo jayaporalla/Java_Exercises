@@ -1,5 +1,5 @@
 package module2;
-public class File {
+public class datatypesExample {
     public static void main(String[] args) {
         int x = 10;
         float y = 13.45f;

@@ -1,4 +1,4 @@
-package classesAndObjects;
+package ClassesAndObjects;
 
 class Points {
     int x, y;

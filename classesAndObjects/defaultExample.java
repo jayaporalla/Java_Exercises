@@ -1,4 +1,4 @@
-package classesAndObjects;
+package ClassesAndObjects;
 
 class Point {
     void run1(){ //here not mentioned any public or private for method type so by default it consider default

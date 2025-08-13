@@ -1,4 +1,4 @@
-package variablesAndDatatypes;
+package VariablesAndDatatypes;
 
 public class datatypesExample {
     public static void main(String[] args) {

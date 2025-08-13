@@ -1,4 +1,4 @@
-package classesAndObjects;
+package ClassesAndObjects;
 
 class A {
     final int MAX = 100;

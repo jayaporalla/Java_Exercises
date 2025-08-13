@@ -1,4 +1,4 @@
-package javaBasics;
+package JavaBasics;
 
 public class swapNumbers {
     public static void main(String[] args){

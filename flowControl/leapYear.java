@@ -1,4 +1,4 @@
-package flowControl;
+package FlowControl;
 import java.util.Scanner;
 
 public class leapYear {

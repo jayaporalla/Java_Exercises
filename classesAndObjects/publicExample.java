@@ -1,4 +1,4 @@
-package classesAndObjects;
+package ClassesAndObjects;
 
 public class publicExample {
     public static void main(String[] args) {

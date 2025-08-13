@@ -1,4 +1,4 @@
-package classesAndObjects;
+package ClassesAndObjects;
 
 class Point1 {
     protected void run(){

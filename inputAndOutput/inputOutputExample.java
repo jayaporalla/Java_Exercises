@@ -1,4 +1,4 @@
-package inputAndOutput;
+package InputAndOutput;
 import java.io.*;
 import java.util.*;
 

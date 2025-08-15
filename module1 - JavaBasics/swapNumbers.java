@@ -1,5 +1,3 @@
-package JavaBasics;
-
 public class swapNumbers {
     public static void main(String[] args){
         int a = 10;

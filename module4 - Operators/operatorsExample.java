@@ -1,5 +1,3 @@
-package Operators;
-
 public class operatorsExample {
     public static void main(String[] args) {
 
